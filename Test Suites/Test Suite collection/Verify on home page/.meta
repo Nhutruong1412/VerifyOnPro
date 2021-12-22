@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FolderEntity>
    <description>folder</description>
-   <name>Test suites collection login</name>
+   <name>Verify on home page</name>
    <tag></tag>
    <folderType>TESTSUITE</folderType>
 </FolderEntity>

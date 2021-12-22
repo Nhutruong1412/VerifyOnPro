@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Login successfully</name>
+   <name>Verify after login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9b634b91-ad69-4640-a422-c7444387a89c</testSuiteGuid>
+   <testSuiteGuid>d2a841d9-d1a0-4a7e-a982-a59bdcf9472a</testSuiteGuid>
    <testCaseLink>
-      <guid>8d279521-c394-427a-9fa7-def62b94603a</guid>
+      <guid>57578fb6-c98a-41f8-a572-5e749119491a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/successfully/Login successfully with valid infor</testCaseId>
+      <testCaseId>Test Cases/Home page/Welcome is shown in the home page</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

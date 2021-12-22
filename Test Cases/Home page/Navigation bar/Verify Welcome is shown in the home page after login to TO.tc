@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify Welcome is shown in the home page after login to TO</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>f0cf5b51-9c4d-4968-8db1-fd790828d713</testCaseGuid>
-</TestCaseEntity>

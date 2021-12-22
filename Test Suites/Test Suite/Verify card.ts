@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Login successfully</name>
+   <name>Verify card</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9b634b91-ad69-4640-a422-c7444387a89c</testSuiteGuid>
+   <testSuiteGuid>04b0b177-754b-420b-867b-b4822b23984b</testSuiteGuid>
    <testCaseLink>
-      <guid>8d279521-c394-427a-9fa7-def62b94603a</guid>
+      <guid>5daee5d5-a957-4c5b-967b-472d77121daf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/successfully/Login successfully with valid infor</testCaseId>
+      <testCaseId>Test Cases/Home page/The cards are shown in the home page</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
