@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the cards are shown in the home page after login to TO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d42e1f0-c354-42ac-9cc2-f54bd4918292</testCaseGuid>
+</TestCaseEntity>
