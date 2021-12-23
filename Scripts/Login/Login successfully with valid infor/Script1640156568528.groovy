@@ -25,5 +25,5 @@ WebUI.setText(findTestObject('Page_Login/input_Sign up_password'), 'TestOps!2021
 
 WebUI.click(findTestObject('Page_Login/button_Sign in'))
 
-WebUI.verifyTextPresent('welcome', true)
+WebUI.closeBrowser()
 
