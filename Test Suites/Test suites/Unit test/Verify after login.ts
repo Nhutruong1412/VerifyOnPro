@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Home page</name>
+   <name>Verify after login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,17 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>78511c45-6dfb-48be-bcfd-8f92d3d5d562</testSuiteGuid>
+   <testSuiteGuid>d2a841d9-d1a0-4a7e-a982-a59bdcf9472a</testSuiteGuid>
    <testCaseLink>
-      <guid>6cbbcdc9-3b6c-4164-83f8-9e8fd895830e</guid>
+      <guid>edb1907b-7265-4ddf-aabb-3d44ee675a82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Home page/Cards/The cards are shown in the home page</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>cde32012-3236-4096-8c12-99c70671170d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Home page/Navigation bar/Welcome is shown in the home page</testCaseId>
+      <testCaseId>Test Cases/Home page/Shown logo</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

@@ -12,9 +12,9 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9b634b91-ad69-4640-a422-c7444387a89c</testSuiteGuid>
    <testCaseLink>
-      <guid>8d279521-c394-427a-9fa7-def62b94603a</guid>
+      <guid>6440bda5-7856-4c0b-ab9e-233c375aa432</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/successfully/Login successfully with valid infor</testCaseId>
+      <testCaseId>Test Cases/Login/Login successfully with valid infor</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

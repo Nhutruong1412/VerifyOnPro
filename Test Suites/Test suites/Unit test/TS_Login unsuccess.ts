@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_Login not successfully</name>
+   <name>TS_Login unsuccess</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,17 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>067e38a6-f19b-4bd5-9b99-02220d6a925f</testSuiteGuid>
+   <testSuiteGuid>03e3e083-e77b-433c-b4d2-03c93f661107</testSuiteGuid>
    <testCaseLink>
-      <guid>fa25b12b-4682-497c-8b6f-5b6c7bee8ee4</guid>
+      <guid>3a164a1d-d931-4a8f-9256-5b423cda61fb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Not successfully/Verify login not successfully with wrong password</testCaseId>
+      <testCaseId>Test Cases/Login/Login not successfully with wrong password</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>4fc53940-9562-4a9b-a927-1feba0efb8b0</guid>
+      <guid>0d04fe1a-647b-487a-98b3-24c58f448744</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Not successfully/Verify login not successfully with wrong username</testCaseId>
+      <testCaseId>Test Cases/Login/Login not successfully with wrong username</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
