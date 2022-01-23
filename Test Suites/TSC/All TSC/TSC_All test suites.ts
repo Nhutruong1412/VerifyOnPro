@@ -14,7 +14,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/Test</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/TS_Login successfully</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -23,7 +23,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/TS_Login successfully</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/TS_Login unsuccess</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -32,7 +32,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/TS_Login unsuccess</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/Verify after login</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -41,7 +41,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/Verify after login</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/Verify card</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -50,7 +50,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/Verify card</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Unit test/Test</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

@@ -14,7 +14,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/TS_Login successfully</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/TS_Login successfully</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -23,7 +23,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test suites/Unit test/TS_Login unsuccess</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder Test Suites/Regression/TS_Login unsuccess</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
