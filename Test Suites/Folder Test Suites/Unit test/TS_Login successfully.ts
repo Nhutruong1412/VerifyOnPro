@@ -15,6 +15,6 @@
       <guid>6440bda5-7856-4c0b-ab9e-233c375aa432</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Login successfully with valid infor</testCaseId>
+      <testCaseId>Test Cases/Login/Login successfully with valid infor hihi</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
