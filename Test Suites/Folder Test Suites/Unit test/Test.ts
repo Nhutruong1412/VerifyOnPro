@@ -21,6 +21,6 @@
       <guid>eba62860-26b0-43a4-9558-95d1b8210334</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Home page/welcome is shown huhu</testCaseId>
+      <testCaseId>Test Cases/Home page/Welcome is shown huhu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
