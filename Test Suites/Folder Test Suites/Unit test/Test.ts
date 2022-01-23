@@ -15,12 +15,12 @@
       <guid>20252a41-22bb-4c84-a584-ba754ac477cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Login successfully with valid infor hihi</testCaseId>
+      <testCaseId>Test Cases/Login/Login successfully with valid infor haha</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>eba62860-26b0-43a4-9558-95d1b8210334</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Home page/welcome is shown hihi</testCaseId>
+      <testCaseId>Test Cases/Home page/welcome is shown haha</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
